@@ -1,0 +1,42 @@
+@media(orientation:landscape){
+    h1{
+        color: rgb(255, 0, 0);
+    }
+}
+    
+}
+
+/*min-width: 500px === anything > 500px / max-width: 500px === anything < 500px
+
+@media all and (min-width:500px){
+    h1{
+        color: orange;
+    }
+}
+
+@media all and (min-width:700px){
+    h1 {
+        color: blue;
+        text-transform: uppercase;
+    }
+}
+
+@media all and (min-width:700px){
+    h1 {
+        color: rgb(255, 0, 217);
+        font-weight: bolder;
+    }
+} */
+
+
+/*Large Screen phone*/
+@media (min-width: 768px) {  }
+
+/*Tablet Screen Size*/
+@media (min-width: 992px) {  }
+
+/*Dextop Screen Size*/
+@media (min-width: 1200px) {  }
+
+/*Large Screen Size*/
+@media (min-width: 1400px) {  } 
